@@ -1,2 +1,2 @@
 # Realms
-Issue tracking, wiki and discussion repo for Realms Inc.
+Issue tracking, wiki and discussion repo for the Realms Online Tabletop.
